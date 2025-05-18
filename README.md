@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/adbc7bc9-0e93-4879-a2bd-e43a94a2a2ae
+**URL**: https://profile-map-viewer.vercel.app
 
 ## How can I edit this code?
 
