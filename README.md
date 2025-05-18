@@ -1,5 +1,5 @@
 
-## Project info
+## Project Demo
 
 **URL**: https://profile-map-viewer.vercel.app
 
